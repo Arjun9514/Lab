@@ -1,0 +1,7 @@
+************* Module bike_share_stations
+bike_share_stations.py:7:0: C0301: Line too long (106/100) (line-too-long)
+bike_share_stations.py:14:0: C0301: Line too long (106/100) (line-too-long)
+
+------------------------------------------------------------------
+Your code has been rated at 9.50/10 (previous run: 3.89/10, +5.61)
+
